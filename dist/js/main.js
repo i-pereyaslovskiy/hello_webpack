@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("first"),console.log("first++"),console.log("secomd"),console.log("secomd++"),console.log("third"),console.log("!third++")})();
